@@ -1,9 +1,9 @@
 
 #取得するcsvファイル
-FILE_PATH = './heroes_information.csv'
+FILE_PATH = './csv/heroes_information.csv'
 
 # 新しく出力するcsvファイル名
-NEW_FILE_PATH = 'new_hero.csv'
+NEW_FILE_PATH = 'csv/new_hero.csv'
 
 #文字コードの指定
 ENCODING = 'utf-8'
