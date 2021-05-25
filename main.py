@@ -1,12 +1,10 @@
-#test
-#aaaaaaa
 import csv
-
 
 #変数の呼び出し
 from setting import FILE_PATH, NEW_FILE_PATH, GET_LINE, ENCODING
+
 #関数の呼び出し
-from change_height import multipleHeight
+from function.change_height import multipleHeight
 
 
 with open(FILE_PATH, mode='r', encoding=ENCODING) as file:
