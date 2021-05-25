@@ -9,4 +9,4 @@ NEW_FILE_PATH = 'csv/new_hero.csv'
 ENCODING = 'utf-8'
 
 #取得したい列数　ここに欲しい列数を入れる
-GET_LINE = 10
+GET_LINE = 11

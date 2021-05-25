@@ -1,4 +1,5 @@
 import csv
+#testtest
 
 #変数の呼び出し
 from setting import FILE_PATH, NEW_FILE_PATH, GET_LINE, ENCODING
